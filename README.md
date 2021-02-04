@@ -1,4 +1,4 @@
-# dworkspace
+# dWorkspace
 
 Standard structure for Dev directories!
 
@@ -26,9 +26,7 @@ Workspaces
     └── projects
         ├── current
         ├── late-2019
-        ├── late-2020
-        ├── late-2021
-        └── late-2022
+        └── late-2020
 
 
 
