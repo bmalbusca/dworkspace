@@ -1,16 +1,18 @@
 # dWorkspace
 
-Standard structure for Dev directories!
+<p align="center" width="100%"><img src="./.assets/dworkspacelogo.svg" width="200" alt="workspace"/></p>
+<p align="center" width="100%">Standard structure for Dev directories!</p>
 
 
 ### How to run
 
 ```bash
 1. cd <somehere>; git clone https://github.com/bmalbusca/dworkspace.git
-2. cp dworkspaces/workspaces.sh <your-target-dir>
+2. cp dworkspace/workspaces.sh <your-target-dir>
 3. cd <your-target-dir>; bash ./workspaces.sh
 
 ```
+> the script also have some usage tips
 
 ### The result
 ```bash
