@@ -12,25 +12,25 @@
 3. cd <your-target-dir>; bash ./workspaces.sh
 
 ```
-> the script also have some usage tips
+> The script also have some usage tips. Remember, this is an interactive script that allows you to add as many external project folders or tutorials as you want.
 
 ### The result
 ```bash
 
 workspaces
 ├── documents           > Used to save Markdown journals
-│   ├── notes           -----> Save researches, articles and other notes
+│   ├── notes           -----> Save articles, drafts and other notes
 │   └── publish         -----> Add your Markdown notes for future blog publishing
 ├── <external-work-1>
 ├── <external-work-2>
 ├── <external-work-3>
 └── internal            > Personal code
-    ├── lab             ----> Save all your learning stuff and code tutorials
-    │   ├── foo         ----> Random code
+    ├── lab             ----> Save all your learning stuffs and tutorials
+    │   ├── foo         
     │   ├── <framework-1>
     │   ├── <framework-2>
     │   └── <language-1>
-    └── projects        > Personal (big) projects
+    └── projects        ----> Personal (big) projects
         ├── current
         ├── late-2019
         └── late-2020
